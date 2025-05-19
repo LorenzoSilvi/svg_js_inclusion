@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
+  <foreignObject x="10" y="10" width="280" height="180">
+    <body xmlns="http://www.w3.org/1999/xhtml">
+      <div style="font-size:18px; color:blue;">
+        Questo è <strong>HTML</strong> dentro SVG!
+      </div>
+    </body>
+  </foreignObject>
+</svg>
