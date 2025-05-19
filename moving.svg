@@ -1,10 +1,7 @@
 <svg width="200" height="100"
      xmlns="http://www.w3.org/2000/svg"
      onload="init(evt)">
-  <script type="application/ecmascript">
-    <![CDATA[
-      function init(evt) {
-        alert("SVG caricato con successo!");
-      }
-    ]]>
+<script>
+alert("ciao);
+</script>
   </script
